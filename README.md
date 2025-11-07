@@ -52,7 +52,7 @@
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/64px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png?20190925171014"
 />
 <img 
     align="left" 
